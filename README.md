@@ -1,5 +1,4 @@
-# hello-world
-First repository!
-My name is Kaiyue Wang, but you can call me David instead. 
-I will be attending UC Berkeley the Fall of 2016 as an applied math major with hopefully a minor in CS or the other way around. 
-Go Bears!
+# Dungeon Scroller Game
+I have created a dungeon scroller game where worlds are randomly generated based on seeds where there are multiple conditions needed to be satsified in order to win the game. 
+In addition I have implemented Konami Codes to make the game more interesting. 
+The goal of the game is to collect all the shards to get to the exit before running out of energy. In addition there are trainers that will obstruct the way that you may or may not have to battle. 
